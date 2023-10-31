@@ -45,7 +45,7 @@ int main(int argc, char* argv[]) {
 
     load_map("graph.map");
     /****************修改路径*******************/
-    load_csr("./data/graph-256-clean.txt");
+    load_csr("./data/graph-128-clean.txt");
     /******************************************/
 
 
